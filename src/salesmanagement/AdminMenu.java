@@ -7,10 +7,7 @@ package salesmanagement;
 
 import java.awt.Toolkit;
 
-/**
- *
- * @author Dilanka Nimsara
- */
+
 public class AdminMenu extends javax.swing.JFrame {
 
     /**
